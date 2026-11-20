@@ -30,5 +30,5 @@ PES2UG24AM081_SE_LAB_1-7/
 ├── Lab-1-3/  # Labs 1–3: Subscription box scheduler
 ├── Lab-4-fishing/                                           # Lab 4: fishing
 ├── Lab-5-Parcel-Tracker/                                  # Lab 5: Parcel tracker
-└── Lab-6-7-Irrigation-Scheduler/                          # Labs 6–7: Irrigation scheduler
+└── Lab-6-7-coffee_shop_order/                          # Labs 6–7:coffee_shop_order
 ```
